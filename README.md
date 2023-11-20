@@ -6,7 +6,7 @@ A <i>frontend</i> Javascript client, as implemented here, should be able to call
 
 ### Execution
 1. Get an API-key from OpenAI [here](https://platform.openai.com/api-keys).
-2. Double-click on the file [index.html](./openai-client.html) (or open it with your browser of choice). No server is needed.
+2. Double-click on the file [openai-client.html](./openai-client.html) (or open it with your browser of choice). No server is needed.
 3. Enter your API-key (once) and enter a description for the tobe generated image (as many times as you like and with the speed that the OpenAI API allows). Note that it can take some time (roughly 10-20 seconds) to receive the image.
 4. Check out the developer console upon errors (no rendering of new images).
 
